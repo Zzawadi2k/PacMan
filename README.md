@@ -1,4 +1,4 @@
-# Pacmen
+# PacMen
 Developer Notes: 
 
 Factory for making pacmen
