@@ -1,4 +1,4 @@
-# PacMen MIT xPRo Exercise 
+# PacMen MIT xPRO Exercise 
 
 Developer Notes: 
 
