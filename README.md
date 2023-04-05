@@ -1,4 +1,5 @@
-# PacMen
+# PacMen MIT xPRo Exercise 
+
 Developer Notes: 
 
 Factory for making pacmen
