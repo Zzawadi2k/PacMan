@@ -1,7 +1,10 @@
-# PacMen MIT xPRO Exercise 
+# PacMen
+  My first Big In class Exercise, one that utilizes both javaScript and html. It's a bit simple, but at the same time it's very fun in so many ways since it's a recreation of one of the world's most beloved game. Pacman, a game that everyone knows! If you need to be reminded then you Gotta click the link provided on the top right side of this Repo to Truly experience the nostalgic feeling coming from their every chomp.   
 
-Developer Notes: 
 
+
+
+## Developer Notes: 
 Factory for making pacmen
 You are given a starter.html code.
 When button "make one" is pressed you need to complete the code 
@@ -24,4 +27,4 @@ Road Map: Correct Pacmen generating over the Start Game button Include virtical 
 
 
 
-code is:  MIT LICENSED 
+# code is:  MIT LICENSED 
